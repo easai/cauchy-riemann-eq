@@ -1,4 +1,4 @@
-# complex-CR
+# cauchy-riemann-eq
 
 [コーシー・リーマンの方程式](https://github.com/easai/complex-CR/blob/main/complex-CR.ipynb)
 
